@@ -1,1 +1,1 @@
-# CSIE **SGBD Oracle** Seminar (2025-2026)
+# CSIE SGBD Oracle Seminar (2025-2026)
